@@ -22,6 +22,7 @@ We carried out model selection and subsequently plotted any relationships found.
   7. = 80-84;
   8. = 85-89;
   9. = 90 and over;
+  
 • *age80* - Logical indicating whether the patient is 80+ years old (age categories 7, 8, 9);
 
 • *admission* - This is the response variable, which contains three categories: Elective, Emergency, and Urgent.
